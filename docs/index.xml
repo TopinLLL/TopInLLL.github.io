@@ -2,7 +2,7 @@
     <channel>
         <title>TimeVster的博客</title>
         <link>https://TopinLLL.github.io/</link>
-        <description>TimeVster的Hugo博客</description>
+        <description>TimeVster的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>514016929@qq.com (Lang)</managingEditor>
             <webMaster>514016929@qq.com (Lang)</webMaster>
             <atom:link href="https://TopinLLL.github.io/index.xml" rel="self" type="application/rss+xml" />
